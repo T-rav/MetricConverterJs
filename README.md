@@ -1,2 +1,2 @@
 # MetricConverterJs
-A reference implementation of the [metric converter](http://www.tddbuddy.com/katas/Metric%20Converter.pdf) in JavaScript
+A reference implementation of the [metric converter kata](http://www.tddbuddy.com/katas/Metric%20Converter.pdf) in JavaScript
